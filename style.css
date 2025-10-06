@@ -1,0 +1,17 @@
+body{
+    display: flex;
+    flex-direction:columnw;
+    align-items: center;
+    justify-content: center;
+    
+    
+}
+
+
+.quadrado {
+    border: 1px solid red;
+    width: 100px;
+    height: 100px;
+    
+
+}
